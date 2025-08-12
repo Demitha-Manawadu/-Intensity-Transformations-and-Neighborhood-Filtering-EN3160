@@ -64,6 +64,4 @@ plt.tight_layout()
 plt.savefig(COMP_PATH, dpi=200)
 plt.show()
 
-print(f"Saved: {FUNC_PATH}")
-print(f"Saved: {COMP_PATH}")
-print(f"Saved: {TRANSFORMED_SAVE}")
+
